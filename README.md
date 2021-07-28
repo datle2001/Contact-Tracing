@@ -1,7 +1,7 @@
 # Contact-Tracing
 A C++ project designed to record users' contacts and movements on a daily basis and allow the organization to detect risky locations and potential Covid-19 carriers.
 
-In particular, the patient can:
+In particular, the user can:
   1. Add details about new contacts they made or places they visited
   2. Modify their records
   3. Remove any unwanted contacts or travelling
